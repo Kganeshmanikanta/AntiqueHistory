@@ -1,0 +1,27 @@
+
+# React dependencies and build output
+**/node_modules/
+**/build/
+**/dist/
+
+# Java / Spring Boot build output
+**/target/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# Windows
+Thumbs.db
+
+# Backup and duplicate copy
+antiquehistory.zip
+Frontend/
